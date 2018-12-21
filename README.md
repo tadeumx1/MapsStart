@@ -2,7 +2,7 @@
 
 Esse é um simples aplicativo que exibe um mapa e foi feito usando React Native e o pacote React Native Maps que está disponível nesse [repositório](https://github.com/react-community/react-native-maps).
 
- React Native 0.57.5
+ React Native 0.57.8
  
  React Native Maps 0.22.1
 
